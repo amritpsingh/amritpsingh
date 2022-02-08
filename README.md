@@ -16,15 +16,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/amritps28" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amritps28" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aamritpalsingh" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aamritpalsingh" height="30" width="40" /></a>
-<a href="https://kaggle.com/amrit2" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="amrit2" height="30" width="40" /></a>
-<a href="https://public.tableau.com/app/profile/amrit.pal.singh" target="_blank"><img align="center" src="tableau_public_logo.png" alt="amrit28" height="30" width="140" /></a>
-<a href="https://www.hackerrank.com/amrit28" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amrit28" height="30" width="40" /></a>
-<!-- <a href="https://www.codechef.com/users/amritps" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="amritps" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/amritps" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amritps" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/amritps28" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="amritps28" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/amrit." target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="amrit." height="30" width="40" /></a>
+<a href="https://twitter.com/amritps28" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amritps28" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aamritpalsingh" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aamritpalsingh" height="30" width="40" /></a>
+<a href="https://kaggle.com/amrit2" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="amrit2" height="30" width="40" /></a>
+<a href="https://public.tableau.com/app/profile/amrit.pal.singh" target="_blank" rel="noopener noreferrer"><img align="center" src="tableau_public_logo.png" alt="amrit28" height="30" width="140" /></a>
+<a href="https://www.hackerrank.com/amrit28" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amrit28" height="30" width="40" /></a>
+<!-- <a href="https://www.codechef.com/users/amritps" target="_blank" rel="noopener noreferrer"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="amritps" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/amritps" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amritps" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/amritps28" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="amritps28" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/amrit." target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="amrit." height="30" width="40" /></a>
 -->
 </p>
 
